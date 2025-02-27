@@ -1,4 +1,5 @@
 avacoda
+<<<<<<< HEAD
 
 more ingredients
 
@@ -8,3 +9,5 @@ more ingredients
 - Salt
 - Pepper
 - Garlic
+=======
+>>>>>>> parent of 73f09d2 (heading for ingredients added)
